@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/bin/Debug/net8.0/WeekFourAea
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/bin/Debug/net8.0/WeekFourAea.deps.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/bin/Debug/net8.0/WeekFourAea.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/bin/Debug/net8.0/WeekFourAea.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/bin/Debug/net8.0/WeekFourAea.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/refint/WeekFourAea.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/WeekFourAea.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFourAea/WeekFourAea/obj/Debug/net8.0/ref/WeekFourAea.dll
